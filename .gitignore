@@ -40,3 +40,6 @@ vignettes/*.pdf
 
 # Secret file
 secret.yaml
+
+# Config
+config.yaml
